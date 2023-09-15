@@ -1,0 +1,10 @@
+.btn-border{
+    background-color: transparent !important;
+    border: none !important;
+}
+.w-image{
+    max-width: 50px;
+}
+.w-image-edit{
+    max-width: 150px;
+}

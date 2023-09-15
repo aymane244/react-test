@@ -1,0 +1,23 @@
+.logo-size{
+    max-width: 70px;
+}
+.flag-image{
+    max-width: 20px;
+}
+.arrow{
+    border: solid black;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+}
+.down{
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+.bg-hover:hover{
+    background-color: #E9ECEF;
+    color: white;
+}
+.nav-shadow{
+    box-shadow: 3px 3px #D3D3D3;
+}

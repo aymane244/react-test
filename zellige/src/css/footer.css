@@ -1,0 +1,24 @@
+.img-footer{
+    max-width:100px;
+}
+.bg-whatsapp{
+    background-color: #4BC557;
+}
+.bg-facebook{
+    background-color: #39599F;
+}
+.bg-twitter{
+    background-color: #66CCFF;
+}
+.bg-instagram{
+    background-color: #E1306C;
+}
+.bg-youtube{
+    background-color: #CD0000;
+}
+.bg-linkedin{
+    background-color: #3B8DBD;
+}
+.padding-i > div{
+    padding-right: 10px;
+}

@@ -1,0 +1,27 @@
+.favoris{
+    transition: 0.6s;
+    width: 50% !important;
+    cursor: pointer;
+    padding-top: 10px;
+}
+.favoris:hover{
+    transition: 0.6s;
+    background-color: black;
+    color: white;
+}
+.pointer{
+    cursor: pointer;
+}
+.img-target{
+    max-width:80px;
+    min-height: 80px
+}
+.nav-tabs .nav-link.active{
+    border-top: 2px solid #DC3545 !important;
+}
+.disp{
+    display: none;
+}
+.bg-disable{
+    background-color: #DEE2E6;
+}

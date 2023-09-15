@@ -1,0 +1,14 @@
+.pointer{
+  cursor: pointer;
+}
+.active{
+  border-bottom: 3px solid rgb(0, 0, 0);
+}
+.dark {
+  background-color: black;
+  color: white;
+}
+.light {
+  background-color: white;
+  color: black;
+}
